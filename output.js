@@ -1,0 +1,1 @@
+function sum(u,c){return u+c}function calculateMe(){return sum(1,2)}calculateMe();
