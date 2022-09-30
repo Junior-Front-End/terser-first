@@ -3,6 +3,8 @@
 
 Protect javascript source codes
 
+![](screenshot.png)
+
 ## Docs
 
 1. [terser github](https://github.com/terser/terser)
